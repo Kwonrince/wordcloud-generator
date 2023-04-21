@@ -1,4 +1,4 @@
-# WordCloud-Maker
+# Korean wordcloud generator
 
 - [다운로드](https://drive.google.com/file/d/1ZwQahTOyshWm0esA2uIcvTD3gDS9Jtj7/view?usp=share_link)
 
